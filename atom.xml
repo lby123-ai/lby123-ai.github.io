@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>李炳玉的小站</title>
+  
+  
+  <link href="https://lby123-ai.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://lby123-ai.github.io/"/>
+  <updated>2024-12-14T16:00:00.000Z</updated>
+  <id>https://lby123-ai.github.io/</id>
+  
+  <author>
+    <name>李炳玉</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>课程配置及介绍</title>
+    <link href="https://lby123-ai.github.io/2024/12/%E8%AF%BE%E7%A8%8B%E9%85%8D%E7%BD%AE%E5%8F%8A%E4%BB%8B%E7%BB%8D/"/>
+    <id>https://lby123-ai.github.io/2024/12/%E8%AF%BE%E7%A8%8B%E9%85%8D%E7%BD%AE%E5%8F%8A%E4%BB%8B%E7%BB%8D/</id>
+    <published>2024-12-14T16:00:00.000Z</published>
+    <updated>2024-12-14T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;课程配置及介绍&lt;/h1&gt;
+&lt;h2 id=&quot;课程列表&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="课程" scheme="https://lby123-ai.github.io/tags/%E8%AF%BE%E7%A8%8B/"/>
+    
+    <category term="介绍" scheme="https://lby123-ai.github.io/tags/%E4%BB%8B%E7%BB%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>生活与情感日记</title>
+    <link href="https://lby123-ai.github.io/2024/12/%E7%94%9F%E6%B4%BB%E4%B8%8E%E6%83%85%E6%84%9F%E6%97%A5%E8%AE%B0/"/>
+    <id>https://lby123-ai.github.io/2024/12/%E7%94%9F%E6%B4%BB%E4%B8%8E%E6%83%85%E6%84%9F%E6%97%A5%E8%AE%B0/</id>
+    <published>2024-12-14T16:00:00.000Z</published>
+    <updated>2024-12-14T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;生活与情感日记&lt;/h1&gt;
+&lt;h2 id=&quot;生活&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#生活&quot;&gt;¶&lt;/a&gt;生活&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目标：&lt;/strong&gt;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="生活" scheme="https://lby123-ai.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="工作" scheme="https://lby123-ai.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
+    
+    <category term="学习" scheme="https://lby123-ai.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="家庭" scheme="https://lby123-ai.github.io/tags/%E5%AE%B6%E5%BA%AD/"/>
+    
+    <category term="休闲" scheme="https://lby123-ai.github.io/tags/%E4%BC%91%E9%97%B2/"/>
+    
+    <category term="情感" scheme="https://lby123-ai.github.io/tags/%E6%83%85%E6%84%9F/"/>
+    
+  </entry>
+  
+</feed>
